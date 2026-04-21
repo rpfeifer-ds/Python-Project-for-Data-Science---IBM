@@ -38,9 +38,9 @@ The resulting dashboard allows users to:
 * Evaluate the cyclical nature of revenue in the tech and retail sectors.
 
 ## 📝 How to Use
-1.  Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
+1.  Clone the repository: `git clone https://github.com/rpfeifer-ds/Python-Project-for-Data-Science---IBM`
 2.  Install dependencies: `pip install yfinance pandas plotly beautifulsoup4 nbformat`
-3.  Run the Jupyter Notebook: `jupyter notebook Financial_Dashboard.ipynb`
+3.  Run the Jupyter Notebook: `Revenue Data and Building a Dashboard-v1` or `Final Assignment Webscraping` 
 
 ---
 *Developed as part of the IBM Data Science curriculum to demonstrate proficiency in Python-based data engineering and visualization.*
