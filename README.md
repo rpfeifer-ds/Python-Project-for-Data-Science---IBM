@@ -1,7 +1,7 @@
 # Financial Data Extraction & Visual Analytics Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## 📌 Project Overview
 This project was developed as part of the **IBM Data Science Professional Certificate**. Acting as a Data Scientist for a startup investment firm, I built an automated pipeline to extract, process, and visualize financial data. The goal is to provide traders and analysts with a consolidated view of stock performance versus company revenue to identify long-term trends.
